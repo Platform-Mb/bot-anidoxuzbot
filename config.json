@@ -1,0 +1,16 @@
+{
+  "bot_token": "PASTE_YOUR_BOT_TOKEN_HERE",
+  "channels": [
+    {
+      "id": "@username1",
+      "title": "Kanal 1",
+      "invite": "https://t.me/username1"
+    },
+    {
+      "id": "@username2",
+      "title": "Kanal 2",
+      "invite": "https://t.me/username2"
+    }
+  ],
+  "admins": [123456789]
+}
